@@ -1,6 +1,6 @@
 # All Apple store locations
 
-View the notebook: [apple-stores.ipynb](/christianmendoza/apple-store-locations/blob/main/apple-stores.ipynb)
+View the notebook: [apple-stores.ipynb](//github.com/christianmendoza/apple-store-locations/blob/main/apple-stores.ipynb)
 
 Visualizing geographically all Apple stores in the USA.
 
